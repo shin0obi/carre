@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/shin0obi/carre/releases/download/v1/carre.apk",
+  "mandatory": false,
+  "changelog": [
+    "Première version"
+  ]
+}
