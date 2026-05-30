@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0.0",
-  "apkUrl": "https://github.com/shin0obi/carre/releases/download/v3/carre.apk",
-  "mandatory": true,
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/shin0obi/carre/releases/download/v1/carré.apk",
+  "mandatory": false,
   "changelog": [
-    "Correction de bug sur la boussole"
+    "Premiere version"
   ]
 }
